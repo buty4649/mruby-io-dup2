@@ -1,2 +1,2 @@
 # mruby-io-dup2
-IO#dup2 for mruby
+IO.dup2 for mruby
